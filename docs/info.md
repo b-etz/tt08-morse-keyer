@@ -37,13 +37,9 @@ The timing element in this system divides the system clock first with a 512x pre
 | 4'b1110       | 7.3   | 3839   | 12'b111011111111 |
 | 4'b1111       | 6.9   | 4095   | 12'b111111111111 |
 
-WARNING: The auxilliary Morse output MUST NOT be used as a raw radio TX control for a homemade radio. 
-This is because the keying interface must control the transmitted wave shape to maintain acceptable RF bandwidth. 
-Be a good RF neighbor. Always use the provided keyer inputs for your radio. 
-These are typically provided with a 3.5mm TRS jack, with Sleeve = GND, Ring = Dah, and Tip = Dit/Straight.
+WARNING: The auxilliary Morse output MUST NOT be used as a raw radio TX control for a homemade radio. This is because the keying interface must control the transmitted wave shape to maintain acceptable RF bandwidth. Be a good RF neighbor. Always use the provided keyer inputs for your radio. These are typically provided with a 3.5mm TRS jack, with Sleeve = GND, Ring = Dah, and Tip = Dit/Straight.
 
-Most radio systems use active-low / open-collector signaling to protect systems operating at various supply voltages. 
-Please see the External Hardware section for recommendations.
+Most radio systems use active-low / open-collector signaling to protect systems operating at various supply voltages. Please see the External Hardware section for recommendations.
 
 ## How to test
 

@@ -22,4 +22,8 @@ The [cocotb](https://docs.cocotb.org/en/stable/index.html) testbench is admitted
 
 ## Application Schematic for UIO PMOD Port
 
-![KiCad Application Schematic - 2024 Sep 02](https://github.com/b-etz/tt08-morse-keyer/blob/main/docs/application_schematic.jpg?raw=true)
+![KiCad Application Schematic - 2025 Jul 11](https://github.com/b-etz/tt08-morse-keyer/blob/main/docs/application_schematic.jpg?raw=true)
+
+## Example Breakout PCB Based on Schematic
+
+![KiCad 3D Render - 2025 Jul 11](https://github.com/b-etz/tt08-morse-keyer/blob/main/docs/3d_model.jpg?raw=true)
